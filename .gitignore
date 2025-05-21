@@ -9,3 +9,8 @@ _C.*
 outputs/*
 checkpoints/*.pt
 demo/backend/checkpoints/*.pt
+*.png
+*.jpg
+*.mp4
+/output
+./temp*
